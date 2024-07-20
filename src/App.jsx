@@ -4,7 +4,7 @@ import Foodlist from "./components/Foodlist";
 import Nav from "./components/Nav";
 import "./App.css";
 import Globalcontainer from "./components/Globalcontainer";
-import Innercontainer from "./components/innercontainer";
+import Innercontainer from "./components/Innercontainer";
 import Recipe from "./components/Recipe";
 function App() {
   const [data, setdata] = useState([]);
